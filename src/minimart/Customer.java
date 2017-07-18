@@ -17,6 +17,7 @@ public class Customer {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("Good Morning Customer");
         OnlineShoppingStore onlineStore = new OnlineShoppingStore();
         onlineStore.showItems();
         onlineStore.askCustomerToBuy();         
