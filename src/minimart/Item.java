@@ -10,9 +10,9 @@ package minimart;
  * @author ARIT
  */
 public class Item {
-    private int id;
-    private String name;  
-    private double price;
+     int id;
+     String name;  
+     double price;
     int qty;
     
     public Item(int id,String name,double price){
