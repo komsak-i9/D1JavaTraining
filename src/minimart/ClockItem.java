@@ -12,7 +12,7 @@ package minimart;
 public class ClockItem extends Item{
     public final String name = "Clock";
     
-    public ClockItem(int id,double price){
+    public ClockItem(int id,String name,double price){
         super(id,name,price);
     }
     

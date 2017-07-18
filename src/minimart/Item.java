@@ -24,6 +24,5 @@ public class Item {
 
     public void setQty(int amount) {
         this.qty = amount;        
-         //To change body of generated methods, choose Tools | Templates.
     }
 }
